@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\abilsbury\\Desktop\\Ex_Files_Learning_Visual_Studio_Code\\Ex_Files_Learning_Visual_Studio_Code\\Exercise Files\\Ch01\\01_05\\Begin\\SampleCode\\mydotnet\\MyDotNet.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
